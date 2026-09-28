@@ -1,0 +1,455 @@
+{
+ "extract1": {
+  "hero_slides": [
+   {
+    "href": "https://trieuques.com/miss-world-vietnam-2025-chinh-thuc-ky-ket-hop-tac-cung-trieu-que-thuong-dinh-yen-tro-thanh-nha-tai-tro-yen-chinh-thuc",
+    "title": "Slider 1",
+    "img": "images/theme/slider_1.jpg"
+   },
+   {
+    "href": "https://trieuques.com/trieu-que-thuong-dinh-yen-xuat-hien-tai-hop-bao-cong-bo-vuong-mien-miss-world-vietnam-2025",
+    "title": "Slider 2",
+    "img": "images/theme/slider_2.jpg"
+   },
+   {
+    "href": "https://www.trieuques.com/chinh-sach-doanh-nghiep",
+    "title": "Slider 3",
+    "img": "images/theme/slider_3.jpg"
+   },
+   {
+    "href": "https://www.trieuques.com/set-qua-tang-thuong-vy-yen",
+    "title": "Slider 4",
+    "img": "images/theme/slider_4.jpg"
+   },
+   {
+    "href": "https://trieuques.com/chinh-sach-tuyen-dai-ly-npp",
+    "title": "Slider 5",
+    "img": "images/theme/slider_5.jpg"
+   }
+  ],
+  "services_raw_text": "| | | | | | | | | | | | Giao hàng siêu tốc | | Giao hàng trong 24h | | | | | | | | | Tư vấn miễn phí | | Đội ngũ tư vấn tận tình 24/24 | | | | | | | | | Thanh toán | | Thanh toán an toàn | | | | | | | | | Giải pháp quà tặng | | Dành cho doanh nghiệp | | | | | | |",
+  "services_imgs": [
+   "images/theme/ser_1.png",
+   "images/theme/ser_2.png",
+   "images/theme/ser_3.png",
+   "images/theme/ser_4.png"
+  ],
+  "banner4": [],
+  "banner4_heading": "Mà còn là sự An Tâm vào chất lượng và cảm xúc Chân Thành",
+  "about_text": "Triều Quế Thượng Đỉnh Yến Câu chuyện về Triều Quế Triều Quế Thượng Đỉnh Yến mang đến không chỉ là YẾN SÀO CHẤT LƯỢNG Mà còn là sự AN TÂM, CHẤT LƯỢNG và cảm xúc CHÂN THÀNH. Mọi câu chuyện đều có một khởi đầu. Với sứ mệnh “TRAO SỨC KHOẺ VÀNG, GỬI NGÀN YÊU THƯƠNG”, mang những sản phẩm chất lượng đến tay quý khách hàng với phương châm luôn đưa chữ TÍN, cái TÂM, chữ NHÂN lên trên hàng đầu và mong muốn nâng tầm giá trị cuộc sống, vì sức khoẻ cộng đồng... Xem chi tiết",
+  "about_imgs": [
+   "images/theme/section_about_product_1.png"
+  ],
+  "about_youtube": null,
+  "blog_posts": [
+   {
+    "href": "/miss-world-vietnam-2025-chinh-thuc-ky-ket-hop-tac-cung-trieu-que-thuong-dinh-yen-tro-thanh-nha-tai-tro-yen-chinh-thuc",
+    "img": "images/articles/trieu-que-thuong-dinh-yen-0828321179-65.jpg",
+    "title": "Miss World Vietnam 2025 chính thức ký kết hợp tác cùng Triều Quế Thượng Đỉnh Yến – Trở thành Nhà tài trợ yến chính thức"
+   },
+   {
+    "href": "/trieu-que-thuong-dinh-yen-tai-tro-vietnam-beauty-fashion-fest-13-tai-thap-tam-thang-vung-tau",
+    "img": "images/articles/trieu-que-thuong-dinh-yen-0828321179-16.jpg",
+    "title": "TRIỀU QUẾ THƯỢNG ĐỈNH YẾN TÀI TRỢ VIETNAM BEAUTY FASHION FEST 13 TẠI THÁP TAM THẮNG – VŨNG TÀU"
+   },
+   {
+    "href": "/trieu-que-thuong-dinh-yen-xuat-hien-tai-hop-bao-cong-bo-vuong-mien-miss-world-vietnam-2025",
+    "img": "images/articles/trieu-que-thuong-dinh-yen-0828321179-1.jpg",
+    "title": "TRIỀU QUẾ THƯỢNG ĐỈNH YẾN XUẤT HIỆN TẠI HỌP BÁO CÔNG BỐ VƯƠNG MIỆN MISS WORLD VIETNAM 2025"
+   },
+   {
+    "href": "/trieu-que-thuong-dinh-khang-dinh-vi-the-thuong-hieu-manh-asean-2025",
+    "img": "images/articles/asean-trieu-que-thuong-dinh-yen-tu-soi-0828321179-31.jpg",
+    "title": "Triều Quế Thượng Đỉnh – Khẳng Định Vị Thế Thương Hiệu Mạnh ASEAN 2025"
+   },
+   {
+    "href": "/trieu-que-thuong-dinh-yen-dong-hanh-cung-htv-tai-mega-live-23-12",
+    "img": "images/articles/1f48595ec07c7022296d18.jpg",
+    "title": "TRIỀU QUẾ THƯỢNG ĐỈNH YẾN ĐỒNG HÀNH CÙNG HTV TẠI MEGA LIVE 23-12"
+   },
+   {
+    "href": "/tu-vtv3-yen-tu-soi-trieu-que-thuong-dinh-yen-chuc-xuan-2025",
+    "img": "images/articles/trieu-que-thuong-dinh-yen-0828321179-12.jpg",
+    "title": "VTV3 DOANH NGHIỆP CHÚC XUÂN | YẾN TỰ SÔI TRIỀU QUẾ THƯỢNG ĐỈNH YẾN"
+   },
+   {
+    "href": "/tai-trieu-que-thuong-dinh-yen-chung-toi-mang-den-khong-chi-la-yen-sao-ma-con-la-su-an-tam-chat-luong-va-cam-xuc-chan-thanh",
+    "img": "images/articles/1ef20ef6e5d5558b0cc4.jpg",
+    "title": "Triều Quế Thượng Đỉnh Yến"
+   }
+  ]
+ },
+ "extract2": {
+  "banner4": [
+   {
+    "href": "https://www.trieuques.com/set-qua-tang-thuong-vy-yen",
+    "title": "SET QUÀ BIẾU TẶNG",
+    "price_text": "Set chỉ từ 390.000đ-20.000.000đ",
+    "img": "images/theme/img_4banner_1.jpg"
+   },
+   {
+    "href": "https://www.trieuques.com/yen-tu-soi-bat-tran-ngu-thien",
+    "title": "SOUP YẾN TỰ SÔI",
+    "price_text": "Bát Trân Ngự Thiện 140ml",
+    "img": "images/theme/img_4banner_2.jpg"
+   },
+   {
+    "href": "https://www.trieuques.com/bat-tran-hoang-duoc-yen-say-thang-hoa",
+    "title": "SOUP YẾN ĂN LIỀN",
+    "price_text": "Bát Trân Hoàng Dược 140ml",
+    "img": "images/theme/img_4banner_3.jpg"
+   },
+   {
+    "href": "https://www.trieuques.com/to-yen",
+    "title": "TỔ YẾN TINH CHẾ",
+    "price_text": "50 Gram | 100 Gram",
+    "img": "images/theme/img_4banner_4.jpg"
+   }
+  ],
+  "product_tab_1_count": 4,
+  "product_tab_1": [
+   {
+    "name": "[100G] DIAMOND HEALTH | TỔ YẾN TINH CHẾ (LOẠI 1)",
+    "price": "2.549.500₫",
+    "href": "/diamond-health",
+    "img": "images/products/debe8a27-672d-4829-814e-d9a80ea9a8a2.jpg"
+   },
+   {
+    "name": "[100G] HUYẾT YẾN (ĐẢO)",
+    "price": "Liên hệ",
+    "href": "/huyet-yen-dao",
+    "img": "images/products/195104289b11234f7a0042.jpg"
+   },
+   {
+    "name": "[100G] SILVER HEALTH | TỔ YẾN TINH CHẾ (TỔ VỤN)",
+    "price": "1.890.000₫",
+    "href": "/silver-health",
+    "img": "images/products/to-yen-sao-silver-health-loai-vun-1-1751619289512.jpg"
+   },
+   {
+    "name": "[50G] TỔ YẾN THÔ - LOẠI 1 (Siêu Ít Lông)",
+    "price": "1.999.500₫",
+    "href": "/yen-tho-premium-it-long",
+    "img": "images/products/e5760eed91d4298a70c558-31e0e05f-35db-4eb9-91e6-0bcc3c3f3f05.jpg"
+   }
+  ],
+  "product_tab_2_count": 4,
+  "product_tab_2": [
+   {
+    "name": "SET KIM YẾN NGỰ TÂM - 2 Chén Tự Sôi, 4 Chén Soup Yến Ăn Liền",
+    "price": "Liên hệ",
+    "href": "/set-kim-yen-ngu-tam-2-chen-tu-soi-4-chen-soup-yen-an-lien",
+    "img": "images/products/trieu-que-thuong-dinh-yen-0828321179-yen-tu-soi-7-1773593570836.jpg"
+   },
+   {
+    "name": "ĐẾ VƯƠNG AN KHANG - Hộp 2 Chén Yến Tự sôi 140ml",
+    "price": "538.000₫",
+    "href": "/set-2-chen-duong-phen-tu-soi-nau",
+    "img": "images/products/trieu-que-thuong-dinh-yen-0828321179-yen-tu-soi-15-1770209438989-58a88afe-c378-4558-9714-c7cbb51cd4df.jpg"
+   },
+   {
+    "name": "NGỰ YẾN THỊNH VƯỢNG - Hộp Cao Cấp 6 Chén Yến Tự Sôi 140ml",
+    "price": "1.994.000₫",
+    "href": "/set-premium-6-bat-tran-tu-soi-duong-phen",
+    "img": "images/products/trieu-que-thuong-dinh-yen-0828321179-yen-tu-soi-6-11zon.jpg"
+   },
+   {
+    "name": "[TỰ SÔI] GÀ HẦM NẤM | BÁT TRÂN NGỰ THIỆN",
+    "price": "319.000₫",
+    "href": "/tu-soi-cot-ga-ham-bat-tran-ngu-thien",
+    "img": "images/products/1-cc821939-9c10-4742-86f5-13b8cbb2de44.png"
+   }
+  ],
+  "product_tab_3_count": 4,
+  "product_tab_3": [
+   {
+    "name": "[YẾN HŨ] ĐƯỜNG ĂN KIÊNG | THƯỢNG VI YẾN",
+    "price": "65.000₫",
+    "href": "/thuong-vi-yen-duong-an-kieng",
+    "img": "images/products/yen-hu-chung-san-vi-duong-an-kieng-2.jpg"
+   },
+   {
+    "name": "[YẾN HŨ] ĐƯỜNG PHÈN | THƯỢNG VI YẾN",
+    "price": "65.000₫",
+    "href": "/thuong-vi-yen-duong-phen",
+    "img": "images/products/65f48eac-e33b-4cb5-8ab1-d358689377fb.jpg"
+   },
+   {
+    "name": "[YẾN HŨ] GỪNG TƯƠI | THƯỢNG VI YẾN",
+    "price": "75.000₫",
+    "href": "/thuong-vi-yen-gung",
+    "img": "images/products/109530fb-4783-4740-b6a1-df59eef55bb5.jpg"
+   },
+   {
+    "name": "[YẾN HŨ] CAM KID GROW PLUS+ | THƯỢNG VI YẾN",
+    "price": "75.000₫",
+    "href": "/thuong-vi-yen-kids-grow-plus-cam",
+    "img": "images/products/bb2ae00c-af15-4d12-91a5-4d67ce3058dd.jpg"
+   }
+  ],
+  "product_tab_4_count": 4,
+  "product_tab_4": [
+   {
+    "name": "SET KIM YẾN NGỰ TÂM - 2 Chén Tự Sôi, 4 Chén Soup Yến Ăn Liền",
+    "price": "Liên hệ",
+    "href": "/set-kim-yen-ngu-tam-2-chen-tu-soi-4-chen-soup-yen-an-lien",
+    "img": "images/products/trieu-que-thuong-dinh-yen-0828321179-yen-tu-soi-7-1773593570836.jpg"
+   },
+   {
+    "name": "PHÚC SINH PHÚ QUÝ - Hộp 4 chén Soup Yến Ăn Liền, 8 Yến Hũ Chưng Sẵn",
+    "price": "1.816.000₫",
+    "href": "/set-a-phuc-sinh-phu-quy-hop-4-chen-yen-say-8-yen-hu",
+    "img": "images/products/0b3d8cb4-8160-4e32-859f-aa83b838895d.jpg"
+   },
+   {
+    "name": "LỤC BẢO PHÚ QUÝ - Hộp Cao Cấp 6 Chén Soup Yến Ăn Liền 140ml",
+    "price": "1.564.000₫",
+    "href": "/set-luc-bao-phu-quy-6-chen-yen-say-thang-hoa",
+    "img": "images/products/trieu-que-thuong-dinh-yen-0828321179-10-11zon.jpg"
+   },
+   {
+    "name": "LỘC TẤN VINH HOA - Hộp Cao Cấp Soup Yến ăn liền 140ml & Hũ Yến Chưng Sẵn 70ml",
+    "price": "1.038.000₫",
+    "href": "/combo-loc-tan-vinh-hoa-mix-a-2-hop-6-hu",
+    "img": "images/products/trieu-que-thuong-dinh-yen-0828321179-2-11zon.jpg"
+   }
+  ],
+  "header_nav": [
+   {
+    "text": "Về Sản Phẩm",
+    "href": "/cam-nang"
+   },
+   {
+    "text": "Về Doanh Nghiệp",
+    "href": "/tin-tuc"
+   }
+  ],
+  "header_categories": [
+   {
+    "text": "SET HỘP QUÀ CAO CẤP",
+    "href": "/set-qua-tang-thuong-vy-yen"
+   },
+   {
+    "text": "TỔ YẾN THƯỢNG PHẨM",
+    "href": "/to-yen"
+   },
+   {
+    "text": "YẾN TỰ SÔI (Bát Trân Ngự Thiện)",
+    "href": "/yen-tu-soi-bat-tran-ngu-thien"
+   },
+   {
+    "text": "YẾN SẤY THĂNG HOA (Bát Trân Hoàng Dược)",
+    "href": "/bat-tran-hoang-duoc-yen-say-thang-hoa"
+   },
+   {
+    "text": "YẾN HŨ CHƯNG SẴN (Thượng Vi Yến)",
+    "href": "/thuong-vy-yen"
+   },
+   {
+    "text": "SET QUÀ TẾT 2026",
+    "href": "/set-qua-tet-2026"
+   },
+   {
+    "text": "YẾN CHƯNG THƯỢNG PHẨM (Bạch Ngọc Chân Yến)",
+    "href": "/yen-chung-thuong-pham-bach-ngoc-chan-yen"
+   },
+   {
+    "text": "CHÁO YẾN ĂN LIỀN",
+    "href": "/chao-yen-an-lien"
+   }
+  ]
+ },
+ "extract3": {
+  "why_choose": [
+   {
+    "title": "Yến sào Thượng Hạng",
+    "img": "images/theme/why_choise_1_icon.png",
+    "desc": "Hoàn toàn được tinh chế thủ công bởi những người thợ lành nghề"
+   },
+   {
+    "title": "Chất lượng Tối Ưu",
+    "img": "images/theme/why_choise_2_icon.png",
+    "desc": "Đến từ thiên nhiên"
+   },
+   {
+    "title": "Sản phẩm",
+    "img": "images/theme/why_choise_3_icon.png",
+    "desc": "Đạt chuẩn ATVSTP, ISO"
+   },
+   {
+    "title": "Giá cả siêu hợp lý",
+    "img": "images/theme/why_choise_4_icon.png",
+    "desc": "Không qua trung gian"
+   },
+   {
+    "title": "Giao hàng",
+    "img": "images/theme/why_choise_5_icon.png",
+    "desc": "Siêu tốc trong 2h"
+   },
+   {
+    "title": "Thanh toán",
+    "img": "images/theme/why_choise_6_icon.png",
+    "desc": "Đa dạng và an toàn"
+   },
+   {
+    "title": "Giá cả siêu hợp lý",
+    "img": "images/theme/why_choise_4_icon.png",
+    "desc": "Không qua trung gian"
+   },
+   {
+    "title": "Giao hàng",
+    "img": "images/theme/why_choise_5_icon.png",
+    "desc": "Siêu tốc trong 2h"
+   },
+   {
+    "title": "Thanh toán",
+    "img": "images/theme/why_choise_6_icon.png",
+    "desc": "Đa dạng và an toàn"
+   }
+  ],
+  "testimonials_alt": [],
+  "feedback_raw": "| | | | Triều Quế Thượng Đỉnh Yến | | Khách hàng nói về chúng tôi | | Hơn +50,000 khách hàng đã sử dụng cảm nhận như thế nào về Triều Quế Thượng Đỉnh Yến | | | | | | | | | | | | | | THU ĐIỆP | | Kinh Doanh | | \"Tôi đã lựa chọn Triều Quế Thượng Đỉnh Yến để sử dụng và dành tặng cho người thân món quà thật ý nghĩa, tinh tế, mẫu mã sang trọng. Tôi rất hài lòng với dịch vụ chuyên nghiệp, chất lượng sản phẩm cũng như sự tận tình của Triều Quế Thượng Đỉnh Yến Chắc chắn rằng tôi sẽ quay lại nhiều lần nữa.\" | | | | | | | | | | | Thành Sang | | Hướng Dẫn Viên | | \"Rất thích sản phẩm của Triều Quế Thượng Đỉnh Yến, trước toàn ra mua trực tiếp, lần này đặt hàng online, được 2 hôm là có hàng, chuẩn mẫu mã, ship nhanh và chất lượng tốt nữa. Tôi sẽ quay lại mua nữa.\" | | | | | | | | | | | Hoa Hậu Thanh Thủy | | Hoa hậu Quốc tế Miss International 2024 | | \"Biết đến Triều Quế Thượng Đỉnh Yến là Thủy được đối tác tặng vào dịp Tết. Thủy dùng thử và cảm thấy rất hài lòng về hương vị.\" | | | | | | | | | | | Quỳnh Như | | Người mẫu | | \"Tôi đã lựa chọn Triều Quế Thượng Đỉnh Yến để dành tặng cho mẹ yêu của mình những món quà thật ý nghĩa. Tôi rất hài lòng với dịch vụ chuyên nghiệp, chất lượng sản phẩm cũng như sự tận tình của Triều Quế Thượng Đỉnh Yến. Chắc chắn rằng tôi sẽ quay lại nhiều lần nữa.\" | | | | | | | | | | | Á Hậu Ngọc Thảo | | Á Hậu | | \"Sản phẩm đa dạng, sang trọng. Giá cả theo mình là rất xứng đáng với chất lượng sản phẩm.\" | | | | | | | | | | | Giám Đốc | | Việt Hùng | | Mua Biếu Đối Tác rất phù hợp tiêu chí Trang Trọng, hình thức chốt đơn tư online hay offline đều nhanh gọn chu đáo đã mua hàng của shop 3 năm và chưa bao giờ thất vọng về dịch vụ và chất lượng SP.\" | | | | | | | | | | | | | | | | | | | | | | | |",
+  "flash_sale_raw": "| | | Triều Quế Thượng Đỉnh Yến | | | Khuyến mãi đặc biệt | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |",
+  "flash_sale_img": [],
+  "coupons_raw": "| | | Triều Quế Thượng Đỉnh Yến | | Mã giảm giá dành cho bạn | | | | | | | | | | | | | | | | | | | | TRIEUQUE200 | Giảm 200k giá trị đơn hàng | | | | HSD: 12/06/2025 | | Copy mã | | | | | | | | | | | | | | | | | | TRIEUQUE100 | Giảm 100k giá trị đơn hàng | | | | HSD: 24/06/2025 | | Copy mã | | | | | | | | | | | | | | | | | | TRIEUQUE50 | Giảm 50k giá trị đơn hàng | | | | HSD: 31/06/2025 | | Copy mã | | | | | | | | | | | | | | | | | | TQFREESHIP | Miễn phí giao hàng | | | | HSD: 31/12/2025 | | Copy mã | | | | | | | | | | | | | | | | | | | | | | | |",
+  "brand_imgs": [
+   "images/theme/img_brand_1.png",
+   "images/theme/img_brand_2.png",
+   "images/theme/img_brand_3.png",
+   "images/theme/img_brand_4.png",
+   "images/theme/img_brand_5.png",
+   "images/theme/img_brand_6.png",
+   "images/theme/img_brand_7.png",
+   "images/theme/img_brand_8.png"
+  ],
+  "footer_raw": "| | | | | | | | | | | | | | | | Địa chỉ: | 60 Điều Xiển, Khu phố 8, p. Long Bình, Đồng Nai. | | | | | | | | Điện thoại: | | 0828 32 11 79 | | | | | | | | | Email: | | trieuquesthuongdinhyen@gmail.com | | | | | | | | | | | | | | | | | | | | | | | | | | | Chính sách | | | | | Chính Sách Tuyển Đại Lý, NPP, Nhượng Quyền Thượng hiệu | | | | Chính Sách Chiết Khấu Đối Tác Doanh Nghiệp | | | | Chính sách vận chuyển | | | | Chính sách đổi trả | | | | Chính sách bảo mật | | | | Quy định sử dụng | | | | | | | Hướng dẫn | | | | | Hướng dẫn mua hàng | | | | Hướng dẫn thanh toán | | | | Hướng dẫn giao nhận | | | | Điều khoản dịch vụ | | | | | | | | Hỗ trợ thanh toán | | | | | | | | | | | | | | | | | | | | | | | | | | Chứng nhận | | | | | | | | | | | | | | | | | | | | | © Bản quyền thuộc về | Triều Quế Thượng Đỉnh Yến | | | | | | Cung cấp bởi | | Sapo | | | | | | | | | | | | | |",
+  "footer_links": [
+   {
+    "text": "",
+    "href": "/"
+   },
+   {
+    "text": "0828 32 11 79",
+    "href": "tel:0828321179"
+   },
+   {
+    "text": "trieuquesthuongdinhyen@gmail.com",
+    "href": "mailto:trieuquesthuongdinhyen@gmail.com"
+   },
+   {
+    "text": "",
+    "href": "https://www.facebook.com/trieuquethuongdinhyen"
+   },
+   {
+    "text": "",
+    "href": "https://www.instagram.com/trieuquethuongdinhyen/"
+   },
+   {
+    "text": "",
+    "href": "https://s.shopee.vn/9pKrp21pLd"
+   },
+   {
+    "text": "",
+    "href": "https://www.lazada.vn/"
+   },
+   {
+    "text": "",
+    "href": "https://www.tiktok.com/@trieuquethuongdinhyen"
+   },
+   {
+    "text": "Chính Sách Tuyển Đại Lý, NPP, Nhượng Quyền Thượng hiệu",
+    "href": "/chinh-sach"
+   },
+   {
+    "text": "Chính Sách Chiết Khấu Đối Tác Doanh Nghiệp",
+    "href": "/chinh-sach"
+   },
+   {
+    "text": "Chính sách vận chuyển",
+    "href": "/chinh-sach"
+   },
+   {
+    "text": "Chính sách đổi trả",
+    "href": "/chinh-sach"
+   },
+   {
+    "text": "Chính sách bảo mật",
+    "href": "/chinh-sach"
+   },
+   {
+    "text": "Quy định sử dụng",
+    "href": "/dieu-khoan"
+   },
+   {
+    "text": "Hướng dẫn mua hàng",
+    "href": "/huong-dan"
+   },
+   {
+    "text": "Hướng dẫn thanh toán",
+    "href": "/huong-dan"
+   },
+   {
+    "text": "Hướng dẫn giao nhận",
+    "href": "/huong-dan"
+   },
+   {
+    "text": "Điều khoản dịch vụ",
+    "href": "/dieu-khoan"
+   },
+   {
+    "text": "",
+    "href": "https://sohuutritue.net.vn/yen-tu-soi-trieu-que-thuong-dinh-tham-du-dien-dan-hop-tac-kinh-te-viet-nam-asean-le-cong-bo-thuong-hieu-manh-asean-2025-d285386.html?gidzl=Tz5tEu70xdXontO_WjRgTd_ASZ-LXRekDPaXQSM8lYuraoGxmjxiAMF0TcYLZxilDyKaRMR4AQbmWCxhV0"
+   },
+   {
+    "text": "",
+    "href": "https://thuonghieutindung.vn/trieu-que-thuong-dinh-khang-dinh-vi-the-thuong-hieu-manh-asean-2025/"
+   },
+   {
+    "text": "Sapo",
+    "href": "https://www.sapo.vn/?utm_campaign=cpn:kho_theme-plm:footer&utm_source=Tu_nhien&utm_medium=referral&utm_content=fm:text_link-km:-sz:&utm_term=&campaign=kho_theme-sapo"
+   },
+   {
+    "text": "",
+    "href": "#"
+   }
+  ]
+ },
+ "testimonials": [
+  {
+   "name": "THU ĐIỆP",
+   "role": "Kinh Doanh",
+   "text": "\"Tôi đã lựa chọn Triều Quế Thượng Đỉnh Yến để sử dụng và dành tặng cho người thân món quà thật ý nghĩa, tinh tế, mẫu mã sang trọng. Tôi rất hài lòng với dịch vụ chuyên nghiệp, chất lượng sản phẩm cũng như sự tận tình của Triều Quế Thượng Đỉnh Yến Chắc chắn rằng tôi sẽ quay lại nhiều lần nữa.\"",
+   "avatar": "images/theme/feedback_1_avatar.jpg"
+  },
+  {
+   "name": "Thành Sang",
+   "role": "Hướng Dẫn Viên",
+   "text": "\"Rất thích sản phẩm của Triều Quế Thượng Đỉnh Yến, trước toàn ra mua trực tiếp, lần này đặt hàng online, được 2 hôm là có hàng, chuẩn mẫu mã, ship nhanh và chất lượng tốt nữa. Tôi sẽ quay lại mua nữa.\"",
+   "avatar": "images/theme/feedback_2_avatar.jpg"
+  },
+  {
+   "name": "Hoa Hậu Thanh Thủy",
+   "role": "Hoa hậu Quốc tế Miss International 2024",
+   "text": "\"Biết đến Triều Quế Thượng Đỉnh Yến là Thủy được đối tác tặng vào dịp Tết. Thủy dùng thử và cảm thấy rất hài lòng về hương vị.\"",
+   "avatar": "images/theme/feedback_3_avatar.jpg"
+  },
+  {
+   "name": "Quỳnh Như",
+   "role": "Người mẫu",
+   "text": "\"Tôi đã lựa chọn Triều Quế Thượng Đỉnh Yến để dành tặng cho mẹ yêu của mình những món quà thật ý nghĩa. Tôi rất hài lòng với dịch vụ chuyên nghiệp, chất lượng sản phẩm cũng như sự tận tình của Triều Quế Thượng Đỉnh Yến. Chắc chắn rằng tôi sẽ quay lại nhiều lần nữa.\"",
+   "avatar": "images/theme/feedback_4_avatar.jpg"
+  },
+  {
+   "name": "Á Hậu Ngọc Thảo",
+   "role": "Á Hậu",
+   "text": "\"Sản phẩm đa dạng, sang trọng. Giá cả theo mình là rất xứng đáng với chất lượng sản phẩm.\"",
+   "avatar": "images/theme/feedback_5_avatar.jpg"
+  },
+  {
+   "name": "Giám Đốc",
+   "role": "Việt Hùng",
+   "text": "Mua Biếu Đối Tác rất phù hợp tiêu chí Trang Trọng, hình thức chốt đơn tư online hay offline đều nhanh gọn chu đáo đã mua hàng của shop 3 năm và chưa bao giờ thất vọng về dịch vụ và chất lượng SP.\"",
+   "avatar": "images/theme/feedback_6_avatar.jpg"
+  }
+ ]
+}
