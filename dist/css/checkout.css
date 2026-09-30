@@ -1,0 +1,54 @@
+/* ==========================================================================
+   Checkout + order confirmation — built on the cart page layout (css/cart-page.css);
+   only the parts the cart page has no equivalent for are styled here, with the theme tokens.
+   ========================================================================== */
+.checkout-page .checkout-block { margin-bottom: 20px; }
+.checkout-page .checkout-block .title_cart { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.checkout-page .checkout-block .title_cart small { font-size: 1.4rem; font-weight: 500; text-transform: none; }
+.checkout-page .checkout-block .title_cart small a { color: var(--mainColor); text-decoration: underline; }
+.checkout-page .checkout-block .title_cart small a:hover { color: var(--hover); }
+
+.checkout-page .checkout-fields { display: flex; flex-wrap: wrap; gap: 0 14px; }
+.checkout-page .checkout-fields .form-group { flex: 1 1 100%; padding-bottom: 0; }
+.checkout-page .checkout-fields .form-group.half { flex: 1 1 calc(50% - 7px); }
+@media (max-width: 575px) { .checkout-page .checkout-fields .form-group.half { flex-basis: 100%; } }
+.checkout-page .checkout-fields label { font-size: 1.4rem; font-weight: 500; margin-bottom: 4px; }
+.checkout-page .checkout-fields label span { color: var(--price); }
+.checkout-page .checkout-fields .form-control { margin-bottom: 12px; padding: 8px 15px; min-height: 42px; border-radius: 3px; }
+.checkout-page .checkout-fields select.form-control { height: 42px; padding-right: 28px; }
+.checkout-page .checkout-fields textarea.form-control { min-height: 90px; }
+.checkout-page .checkout-fields .field-error { color: var(--price); font-size: 1.3rem; margin: -8px 0 10px; }
+.checkout-page .checkout-fields .has-error .form-control { border-color: var(--price); }
+.checkout-page .saved-address { margin-bottom: 12px; }
+
+.checkout-page .payment-option { display: flex !important; align-items: center; gap: 12px; padding: 12px 15px; border: 1px solid var(--mainColor); border-radius: 3px; background: #f8f8f8; cursor: pointer; margin: 0; width: 100%; }
+.checkout-page .payment-option input[type="radio"] { position: static; width: 18px; height: 18px; accent-color: var(--mainColor); flex: 0 0 auto; margin: 0; }
+.checkout-page .payment-option svg { width: 26px; height: 26px; color: var(--mainColor); flex: 0 0 auto; }
+.checkout-page .payment-option span { font-weight: 600; }
+
+.checkout-page .order-lines { max-height: 320px; overflow-y: auto; padding: 12px 0; border-bottom: 1px solid #ddd; }
+.checkout-page .order-line { display: flex; align-items: center; gap: 12px; padding: 6px 0; }
+.checkout-page .order-line .thumb { position: relative; flex: 0 0 60px; width: 60px; height: 60px; border: 1px solid #ebebeb; border-radius: 3px; background: #fff; display: flex; align-items: center; justify-content: center; }
+.checkout-page .order-line .thumb img { max-width: 100%; max-height: 100%; }
+.checkout-page .order-line .thumb .qty { position: absolute; top: -8px; right: -8px; min-width: 20px; height: 20px; line-height: 20px; padding: 0 5px; border-radius: 10px; background: var(--subColor); color: #fff; font-size: 1.2rem; text-align: center; }
+.checkout-page .order-line .info { flex: 1 1 auto; font-size: 1.4rem; line-height: 1.4; }
+.checkout-page .order-line .info .variant { display: block; color: #999; font-size: 1.2rem; }
+.checkout-page .order-line .price { font-weight: 600; font-size: 1.4rem; white-space: nowrap; }
+
+.checkout-page .coupon-row { padding: 12px 0; border-bottom: 1px solid #ddd; }
+.checkout-page .coupon-row .coupon-input { display: flex; gap: 8px; }
+.checkout-page .coupon-row input { margin: 0; min-height: 40px; padding: 0 15px; text-transform: uppercase; border-radius: 3px; }
+.checkout-page .coupon-row .btn { flex: 0 0 auto; }
+.checkout-page .coupon-row .coupon-message { margin: 8px 0 0; font-size: 1.3rem; color: var(--price); }
+.checkout-page .coupon-row .coupon-message.ok { color: #27ae60; }
+.checkout-page .summary-lines .content-items { display: flex; justify-content: space-between; align-items: center; padding: 4px 0; font-size: 1.4rem; }
+.checkout-page .summary-lines .content-items .item-content-right { text-align: right; }
+.checkout-page .summary-lines .note { font-size: 1.3rem; color: #999; margin: 4px 0 0; }
+
+.checkout-page .thankyou { text-align: center; padding: 20px 10px 10px; }
+.checkout-page .thankyou svg { width: 64px; height: 64px; color: #27ae60; margin-bottom: 12px; }
+.checkout-page .thankyou h1 { font-size: 2.2rem; font-weight: 700; text-transform: uppercase; margin-bottom: 8px; }
+.checkout-page .thankyou p { margin-bottom: 6px; }
+.checkout-page .thankyou .order-number { color: var(--mainColor); font-weight: 700; }
+.checkout-page .thankyou .actions { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 16px; }
+.checkout-page .order-address p { margin-bottom: 6px; font-size: 1.4rem; }

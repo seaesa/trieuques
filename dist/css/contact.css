@@ -1,0 +1,31 @@
+/* ==========================================================================
+   Contact page
+   ========================================================================== */
+.layout-contact { margin-bottom: 30px; }
+.layout-contact .des_foo { margin-bottom: 10px; }
+.layout-contact .contact { margin-bottom: 40px; }
+.layout-contact .contact h4 { font-size: 2rem; text-transform: uppercase; font-weight: bold; margin-bottom: 8px; }
+.layout-contact .contact .time_work .item { position: relative; font-size: 1.6rem; margin-bottom: 5px; }
+.layout-contact .contact .time_work .item a { color: var(--mainColor); }
+.layout-contact .contact .time_work .item a:hover { color: var(--hover); }
+.layout-contact .contact .time_work .item a.btn-primary { color: #fff; display: inline-flex; align-items: center; margin-top: 4px; }
+.layout-contact .contact .time_work .item a.btn-primary svg:not(.border-svg) { width: 20px; height: 20px; margin-right: 6px; }
+.layout-contact .contact .time_work .item a.btn-primary:hover { color: var(--mainColor); }
+.layout-contact .form-contact { background: #f5f5f5; padding: 20px 15px; border: 1px solid #ddd; }
+.layout-contact .form-contact h4 { font-size: 1.6rem; text-transform: uppercase; font-weight: bold; margin-bottom: 10px; }
+.layout-contact .form-contact #contact { margin-bottom: 0; }
+.layout-contact .form-contact .group_contact input,.layout-contact .form-contact .group_contact textarea { border: 1px solid #e1e1e1; width: 100%; margin-bottom: 15px; outline: none; }
+.layout-contact .form-contact .group_contact input { padding: 5px 20px; }
+.layout-contact .form-contact .group_contact textarea { padding: 10px 20px; }
+.layout-contact .form-contact .group_contact .btn-lienhe { background: var(--mainColor); color: #fff; border: initial; padding: 0 25px; height: 40px; line-height: 40px; font-size: 1.6rem; border-radius: 5px; display: flex; align-items: center; }
+.layout-contact .form-contact .group_contact .btn-lienhe svg { width: 18px; height: 18px; margin-left: 3px; }
+.layout-contact .form-contact .group_contact .btn-lienhe:hover { background: var(--subColor); }
+@media (max-width: 991px) {
+	.form-contact { margin-bottom: 30px; }
+}
+#contact_map iframe { width: 100%; height: 450px; overflow: hidden; }
+@media (min-width: 992px) {
+	#contact_map { height: 100%; }
+	#contact_map iframe { width: 100%; height: 100%; }
+}
+

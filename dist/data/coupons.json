@@ -1,0 +1,30 @@
+[
+ {
+  "code": "TRIEUQUE200",
+  "desc": "Giảm 200k giá trị đơn hàng",
+  "expiry": "HSD: 12/06/2025",
+  "condition": "Áp dụng cho đơn hàng từ <b>3,000,000đ</b> trở lên\nKhông đi kèm với chương trình khác",
+  "img": "images/theme/img_coupon_1.jpg"
+ },
+ {
+  "code": "TRIEUQUE100",
+  "desc": "Giảm 100k giá trị đơn hàng",
+  "expiry": "HSD: 24/06/2025",
+  "condition": "Áp dụng cho đơn hàng từ <b>1,500,000đ</b> trở lên\nKhông đi kèm với chương trình khác",
+  "img": "images/theme/img_coupon_2.jpg"
+ },
+ {
+  "code": "TRIEUQUE50",
+  "desc": "Giảm 50k giá trị đơn hàng",
+  "expiry": "HSD: 31/06/2025",
+  "condition": "Áp dụng cho đơn hàng từ <b>1,000,000đ</b> trở lên\nKhông đi kèm với chương trình khác",
+  "img": "images/theme/img_coupon_3.jpg"
+ },
+ {
+  "code": "TQFREESHIP",
+  "desc": "Miễn phí giao hàng",
+  "expiry": "HSD: 31/12/2025",
+  "condition": "Miễn phí giao hàng toàn quốc (tối đa 50k) cho đơn hàng từ <b>1,200,000đ</b> trở lên",
+  "img": "images/theme/img_coupon_4.jpg"
+ }
+]

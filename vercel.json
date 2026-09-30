@@ -1,4 +1,7 @@
 {
+  "installCommand": "pip3 install beautifulsoup4",
+  "buildCommand": "python3 tools/build.py",
+  "outputDirectory": "dist",
   "cleanUrls": true,
   "trailingSlash": false
 }

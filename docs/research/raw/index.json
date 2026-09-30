@@ -1,0 +1,2452 @@
+{
+ "/": {
+  "status": 200,
+  "template": "index",
+  "title": "TRIỀU QUẾ Thượng Đỉnh Yến",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/index.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/he-thong-cua-hang": {
+  "status": 404,
+  "template": "header_nav_cate",
+  "title": "404 Không tìm thấy trang",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/404page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/nhuong-quyen-thuong-hieu-chi-nhanh": {
+  "status": 200,
+  "template": "page",
+  "title": "Nhượng Quyền Thượng Hiệu Chi Nhánh",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/gioi-thieu": {
+  "status": 200,
+  "template": "page",
+  "title": "Giới thiệu",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/chinh-sach": {
+  "status": 200,
+  "template": "page",
+  "title": "Chính sách",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/lien-he": {
+  "status": 200,
+  "template": "page.contact",
+  "title": "Liên hệ",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/contact_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/yen-tu-soi-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "collection",
+  "title": "YẾN TỰ SÔI | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/miss-world-vietnam-2025-chinh-thuc-ky-ket-hop-tac-cung-trieu-que-thuong-dinh-yen-tro-thanh-nha-tai-tro-yen-chinh-thuc": {
+  "status": 200,
+  "template": "article",
+  "title": "Miss World Vietnam 2025 chính thức ký kết hợp tác cùng Triều Quế Thượn",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/trieu-que-thuong-dinh-yen-xuat-hien-tai-hop-bao-cong-bo-vuong-mien-miss-world-vietnam-2025": {
+  "status": 200,
+  "template": "article",
+  "title": "TRIỀU QUẾ THƯỢNG ĐỈNH YẾN XUẤT HIỆN TẠI HỌP BÁO CÔNG BỐ VƯƠNG MIỆN MIS",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/chinh-sach-doanh-nghiep": {
+  "status": 200,
+  "template": "page",
+  "title": "Chính Sách Doanh Nghiệp",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/set-qua-tang-thuong-vy-yen": {
+  "status": 200,
+  "template": "collection",
+  "title": "Set quà tặng thượng vy yến",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/chinh-sach-tuyen-dai-ly-npp": {
+  "status": 200,
+  "template": "page",
+  "title": "Chính Sách Tuyển Đại Lý, Cộng Tác Viên, Nhà Phân Phối Toàn Quốc",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/bat-tran-hoang-duoc-yen-say-thang-hoa": {
+  "status": 200,
+  "template": "collection",
+  "title": "BÁT TRÂN HOÀNG DƯỢC | YẾN SẤY THĂNG HOA",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/to-yen": {
+  "status": 200,
+  "template": "collection",
+  "title": "Tổ yến",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/tin-tuc": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tin tức",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/trieu-que-thuong-dinh-yen-tai-tro-vietnam-beauty-fashion-fest-13-tai-thap-tam-thang-vung-tau": {
+  "status": 200,
+  "template": "article",
+  "title": "TRIỀU QUẾ THƯỢNG ĐỈNH YẾN TÀI TRỢ VIETNAM BEAUTY FASHION FEST 13 TẠI T",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/trieu-que-thuong-dinh-khang-dinh-vi-the-thuong-hieu-manh-asean-2025": {
+  "status": 200,
+  "template": "article",
+  "title": "Triều Quế Thượng Đỉnh – Khẳng Định Vị Thế Thương Hiệu Mạnh ASEAN 2025",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/trieu-que-thuong-dinh-yen-dong-hanh-cung-htv-tai-mega-live-23-12": {
+  "status": 200,
+  "template": "article",
+  "title": "TRIỀU QUẾ THƯỢNG ĐỈNH YẾN ĐỒNG HÀNH CÙNG HTV TẠI MEGA LIVE 23-12",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/tu-vtv3-yen-tu-soi-trieu-que-thuong-dinh-yen-chuc-xuan-2025": {
+  "status": 200,
+  "template": "article",
+  "title": "TỪ VTV3, YẾN TỰ SÔI TRIỀU QUẾ THƯỢNG ĐỈNH YẾN CHÚC XUÂN 2025",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/tai-trieu-que-thuong-dinh-yen-chung-toi-mang-den-khong-chi-la-yen-sao-ma-con-la-su-an-tam-chat-luong-va-cam-xuc-chan-thanh": {
+  "status": 200,
+  "template": "article",
+  "title": "Tại Triều Quế Thượng Đỉnh Yến, chúng tôi mang đến không chỉ là Yến Sào",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/diamond-health": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] DIAMOND HEALTH | TỔ YẾN TINH CHẾ (LOẠI 1)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/huyet-yen-dao": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] HUYẾT YẾN (ĐẢO)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/silver-health": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] SILVER HEALTH | TỔ YẾN TINH CHẾ (TỔ VỤN)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/yen-tho-premium-it-long": {
+  "status": 200,
+  "template": "product",
+  "title": "[50G] TỔ YẾN THÔ - LOẠI 1 (Siêu Ít Lông)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-kim-yen-ngu-tam-2-chen-tu-soi-4-chen-soup-yen-an-lien": {
+  "status": 200,
+  "template": "product",
+  "title": "SET KIM YẾN NGỰ TÂM - 2 Chén Tự Sôi, 4 Chén Soup Yến Ăn Liền",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-2-chen-duong-phen-tu-soi-nau": {
+  "status": 200,
+  "template": "product",
+  "title": "ĐẾ VƯƠNG AN KHANG - Hộp 2 Chén Yến Tự sôi 140ml",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-premium-6-bat-tran-tu-soi-duong-phen": {
+  "status": 200,
+  "template": "product",
+  "title": "NGỰ YẾN THỊNH VƯỢNG - Hộp Cao Cấp 6 Chén Yến Tự Sôi 140ml",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/tu-soi-cot-ga-ham-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] GÀ HẦM NẤM | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vy-yen": {
+  "status": 200,
+  "template": "collection",
+  "title": "Thượng vy yến",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-duong-an-kieng": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] ĐƯỜNG ĂN KIÊNG | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-duong-phen": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] ĐƯỜNG PHÈN | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-gung": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] GỪNG TƯƠI | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-kids-grow-plus-cam": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] CAM KID GROW PLUS+ | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-a-phuc-sinh-phu-quy-hop-4-chen-yen-say-8-yen-hu": {
+  "status": 200,
+  "template": "product",
+  "title": "PHÚC SINH PHÚ QUÝ - Hộp 4 chén Soup Yến Ăn Liền, 8 Yến Hũ Chưng Sẵn",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-luc-bao-phu-quy-6-chen-yen-say-thang-hoa": {
+  "status": 200,
+  "template": "product",
+  "title": "LỤC BẢO PHÚ QUÝ - Hộp Cao Cấp 6 Chén Soup Yến Ăn Liền 140ml",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/combo-loc-tan-vinh-hoa-mix-a-2-hop-6-hu": {
+  "status": 200,
+  "template": "product",
+  "title": "LỘC TẤN VINH HOA - Hộp Cao Cấp Soup Yến ăn liền 140ml & Hũ Yến Chưng Sẵn 70ml",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/tu-soi-cua-ghe-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] CUA GHẸ | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/tu-soi-bat-buu-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] BÁT BỬU | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/tu-soi-so-diep-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] SÒ ĐIỆP | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/tu-soi-hai-sam-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] HẢI SÂM | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/tu-soi-bao-ngu-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] BÀO NGƯ | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/giat-soi-duong-phen-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] ĐƯỜNG PHÈN | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/giat-soi-sau-rieng-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] SẦU RIÊNG | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/giat-soi-gung-organic-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] | GỪNG ORGANIC | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/giat-soi-tu-vi-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] TỨ VỊ | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/giat-soi-dong-trung-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] ĐÔNG TRÙNG | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/giat-soi-nhan-sam-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "[TỰ SÔI] NHÂN SÂM | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/collections/all": {
+  "status": 200,
+  "template": "collection",
+  "title": "Tất cả sản phẩm",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/dieu-khoan": {
+  "status": 200,
+  "template": "page",
+  "title": "Điều khoản",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/huong-dan": {
+  "status": 200,
+  "template": "page",
+  "title": "Hướng dẫn",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/set-qua-tet-2026": {
+  "status": 200,
+  "template": "collection",
+  "title": "SET QUÀ TẾT 2026",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/yen-chung-thuong-pham-bach-ngoc-chan-yen": {
+  "status": 200,
+  "template": "collection",
+  "title": "YẾN CHƯNG THƯỢNG PHẨM (Bạch Ngọc Chân Yến)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/chao-yen-an-lien": {
+  "status": 200,
+  "template": "collection",
+  "title": "CHÁO YẾN ĂN LIỀN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/birdsnest": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#birdsnest\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/mwvn": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#mwvn\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/vbff": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#vbff\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/vietnambeautyfashionfest": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#vietnambeautyfashionfest\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/yensao": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#yensao\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/toyen": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"toyen\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/trieuquethuongdinhyen": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"trieuquethuongdinhyen\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/yensaokhanhhoa": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"yensaokhanhhoa\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/yentrieuque": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"yentrieuque\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/yentusoi": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"yentusoi\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/cam-nang": {
+  "status": 200,
+  "template": "blog",
+  "title": "Cẩm nang",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/gia-cong-yen-tu-soi": {
+  "status": 200,
+  "template": "page",
+  "title": "Gia Công Yến Tự Sôi",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/gia-cong-banh-yen": {
+  "status": 200,
+  "template": "page",
+  "title": "Gia Công Bánh Yến",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/gia-cong-chao-yen": {
+  "status": 200,
+  "template": "page",
+  "title": "Gia Công Cháo Yến",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/gia-cong-yen-say-thang-hoa": {
+  "status": 200,
+  "template": "page",
+  "title": "Gia Công Yến Sấy Thăng Hoa",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/gia-cong-yen-hu-nguyen-chat-100": {
+  "status": 200,
+  "template": "page",
+  "title": "Gia Công Yến Hũ Nguyên Chất 100%",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/gia-cong-yen-tiet-trung": {
+  "status": 200,
+  "template": "page",
+  "title": "Gia Công Yến Tiệt Trùng (%)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/style_page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/missworldvietnam": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#missworldvietnam\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/set-6-mix-6-tvy": {
+  "status": 200,
+  "template": "product",
+  "title": "AN HÒA VƯƠNG PHÚC - Hộp 6 Hũ Yến Chưng Sẵn",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-saffron-luc-dinh-vuong-gia-hop-6-yen-hu": {
+  "status": 200,
+  "template": "product",
+  "title": "LỤC ĐÌNH VƯƠNG GIA - Hộp Cao Cấp 6 Hũ Yến Chưng Sẵn 70ml",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/copy-of-set-9-an-hoa-vuong-phuc-hop-9-hu-yen-chung-san": {
+  "status": 200,
+  "template": "product",
+  "title": "AN HÒA VƯƠNG PHÚC - Hộp 9 Hũ Yến Chưng Sẵn",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-3-chen-duong-phen-bthd": {
+  "status": 200,
+  "template": "product",
+  "title": "[SET 3] ĐƯỜNG PHÈN | YẾN SẤY THĂNG HOA",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-h-bach-ngoc-chan-yen-hop-6-hu-yen-thuong-pham-100ml": {
+  "status": 200,
+  "template": "product",
+  "title": "BẠCH NGỌC CHÂN YẾN - Hộp 6 Yến Hũ Thượng Phẩm",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/pre-20-set-qua-bieu-20-hu-cao-cap": {
+  "status": 200,
+  "template": "product",
+  "title": "BÁCH LẠC Y VIÊN - Hộp Cao Cấp 20 Hũ Yến Chưng Sẵn 70ml",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-a-hop-2-tang-6-hu-yen-thuong-pham-4-chen-yen": {
+  "status": 200,
+  "template": "product",
+  "title": "PHÁT PHÚC NGỰ THƯỢNG - Hộp 4 chén Cháo Yến Ăn Liền, 6 Yến Hũ Thượng Phẩm",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/set-a-hop-2-tang-12-hu-yen-thuong-pham": {
+  "status": 200,
+  "template": "product",
+  "title": "THẬP NHỊ THƯỢNG PHẨM - 12 Yến Hũ Thượng Phẩm",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/cot-ga-ham-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "YẾN CHƯNG NẤM - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/so-diep-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "SÒ ĐIỆP - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/cua-ghe-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "CUA GHẸ - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/bat-buu-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "BÁT BỬU - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/hai-sam-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "HẢI SÂM - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/bao-ngu-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "BÀO NGƯ - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/gung-tuoi-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "GỪNG TƯƠI - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/dong-trung-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "ĐÔNG TRÙNG - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/sau-rieng-bat-tran-hoang-duoc": {
+  "status": 200,
+  "template": "product",
+  "title": "SẦU RIÊNG - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/duong-phen-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "ĐƯỜNG PHÈN - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/tu-vi-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "TỨ VỊ - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/nhan-sam-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "product",
+  "title": "NHÂN SÂM - SOUP YẾN ĂN LIỀN | BÁT TRÂN HOÀNG DƯỢC",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/yen-rut-long-nguyen-to-thuong-hang": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] RÚT LÔNG NGUYÊN TỔ CAO CẤP",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/yen-dao": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] BẠCH YẾN ĐẢO THIÊN NHIÊN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/gold-health": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] GOLD HEALTH | TỔ YẾN TINH CHẾ (LOẠI 3)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/platinum-health": {
+  "status": 200,
+  "template": "product",
+  "title": "[50G] PLATINUM HEALTH | TỔ YẾN TINH CHẾ (LOẠI 2)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/yen-tho": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] TỔ YẾN THÔ - LOẠI 2",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/leaf-premium-tieu-chuan-cao-cap-xuat-khau": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] A5 - RÚT LÔNG KHÔ THƯỢNG HẠNG (Leaf Premium xuất khẩu)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/huyet-yen-nha": {
+  "status": 200,
+  "template": "product",
+  "title": "[100G] HUYẾT YẾN (NUÔI)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/chan-yen-tho": {
+  "status": 200,
+  "template": "product",
+  "title": "[50G] CHÂN YẾN THÔ (Còn Lông)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/trieu-que-thuong-dinh-yen-tu-hao-danh-hieu-top-10-thuong-hieu-manh-quoc-gia-2024": {
+  "status": 200,
+  "template": "article",
+  "title": "TRIỀU QUẾ - THƯỢNG ĐỈNH YẾN TỰ HÀO DANH HIỆU “TOP 10 THƯƠNG HIỆU MẠNH",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/cung-hoa-hau-huynh-thi-thanh-thuy-chuan-bi-cho-mot-mua-trung-thu-that-binh-an-va-nhieu-suc-khoe-voi-yen-trieu-que-thuong-dinh": {
+  "status": 200,
+  "template": "article",
+  "title": "Cùng Hoa hậu Huỳnh Thị Thanh Thủy chuẩn bị cho một mùa trung thu thật bình an và nhiều sức khỏe với Yến Triều Quế Thượng Đỉnh",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/cung-a-hau-ngoc-thao-kham-pha-yen-tu-soi-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "article",
+  "title": "Cùng Á Hậu Ngọc Thảo khám phá Yến Tự Sôi | Bát Trân Ngự Thiện",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/aseanbrand": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#aseanbrand\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/aseanstrongbrand": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#aseanstrongbrand\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/birdnest": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#birdnest\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/muayentusoihcm": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"muayentusoihcm\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/muayentusoiodau": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"muayentusoiodau\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/trieuque": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"trieuque\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/yen": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"yen\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/yentusoigiabaonhieu": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"yentusoigiabaonhieu\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/yentusoitrieuque": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"yentusoitrieuque\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/dealngaptranmuonvanganket": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#DealNgapTranMuonVanGanKet\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/htv": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#HTV\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/livecommerce": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#LiveCommerce\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/megalive": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#MegaLive\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/ngocchau": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#NgocChau\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/olive": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"#Olive\"",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-vanni-kids-grow-plus": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] VANI KID GROW PLUS+ | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-hat-sen": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] HẠT SEN | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-kids-grow-plus": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] DÂU KID GROW PLUS+ | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-chia-long-nhan": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] CHIA & LONG NHÃN | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-saffron": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] SAFFRON | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-dong-trung": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] ĐÔNG TRÙNG | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-nhan-sam": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] NHÂN SÂM | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/thuong-vi-yen-collagen-x2": {
+  "status": 200,
+  "template": "product",
+  "title": "[YẾN HŨ] COLLAGEN X2 | THƯỢNG VI YẾN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/combo-mix-3-vi-kids-grow-plus-mua-8-tang-1": {
+  "status": 200,
+  "template": "product",
+  "title": "(MUA 8 TẶNG 1) - MIX 3 VỊ DÂU CAM VANI KIDS GROW PLUS+",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/combo-mix-5-dau-4-vani-kids-grow-plus-mua-8-tang-1": {
+  "status": 200,
+  "template": "product",
+  "title": "(MUA 8 TẶNG 1) - 5 HŨ DÂU, 4 HŨ VANI KIDS GROW PLUS+",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/combo-vani-kids-grow-plus-mua-8-tang-1": {
+  "status": 200,
+  "template": "product",
+  "title": "(MUA 8 TẶNG 1) - HƯƠNG VANI KIDS GROW PLUS+",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/combo-cam-kids-grow-plus-mua-8-tang-1": {
+  "status": 200,
+  "template": "product",
+  "title": "(MUA 8 TẶNG 1) - HƯƠNG CAM KIDS GROW PLUS+",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/combo-kids-grow-plus-mua-8-tang-1": {
+  "status": 200,
+  "template": "product",
+  "title": "(MUA 8 TẶNG 1) - HƯƠNG DÂU KIDS GROW PLUS+",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/bao-ngu-chao-yen-tuoi": {
+  "status": 200,
+  "template": "product",
+  "title": "BÀO NGƯ - CHÁO YẾN TƯƠI TRIỀU QUẾ",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/hai-san-chao-yen-tuoi": {
+  "status": 200,
+  "template": "product",
+  "title": "HẢI SẢN - CHÁO YẾN TƯƠI TRIỀU QUẾ",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/100-gung-cang-gia-cang-cay-bach-ngoc-chan-yen-vi-gung-tuoi-100ml": {
+  "status": 200,
+  "template": "product",
+  "title": "[100%] TINH GỪNG NGỰ ÔN | BẠCH NGỌC CHÂN YẾN - Yến Chưng Thượng Phẩm (Gừng Tươi 100ml)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/100-ngoc-sam-vuong-khi-bach-ngoc-chan-yen-vi-nhan-sam-100ml": {
+  "status": 200,
+  "template": "product",
+  "title": "[100%] NGỌC SÂM VƯỢNG KHÍ | BẠCH NGỌC CHÂN YẾN - Yến Chưng Thượng Phẩm (Nhân Sâm 100ml)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/100-dong-trung-khang-sinh-bach-ngoc-chan-yen-dong-trung-100ml": {
+  "status": 200,
+  "template": "product",
+  "title": "ĐÔNG TRÙNG KHANG SINH | BẠCH NGỌC CHÂN YẾN - Vị Đông Trùng (100ml)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/100-tu-quy-phi-bach-ngoc-chan-yen-tu-vi-100ml": {
+  "status": 200,
+  "template": "product",
+  "title": "[100%] TỨ QUÝ PHI | BẠCH NGỌC CHÂN YẾN - Yến Chưng Thượng Phẩm (Tứ Vị 100ml)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/100-an-duong-bach-ngoc-chan-yen-duong-an-kieng-100ml": {
+  "status": 200,
+  "template": "product",
+  "title": "[100%] AN ĐƯỜNG | BẠCH NGỌC CHÂN YẾN - Yến Chưng Thượng Phẩm (Đường Ăn Kiêng 100ml)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/100-nguyen-ban-bach-ngoc-chan-yen-duong-phen-100ml": {
+  "status": 200,
+  "template": "product",
+  "title": "[100%] NGUYÊN BẢN | BẠCH NGỌC CHÂN YẾN - Yến Chưng Thượng Phẩm (Đường Phèn 100ml)",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/combo-collagen-x2-mua-8-tang-1": {
+  "status": 200,
+  "template": "product",
+  "title": "(MUA 8 TẶNG 1) - YẾN HŨ COLLAGEN X2 - THƯỢNG VI YẾN 70ML",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/product_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bpr-products-module.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/picbox.scss.css"
+  ]
+ },
+ "/collections/yen-tu-soi-bat-tran-ngu-thien": {
+  "status": 200,
+  "template": "collection",
+  "title": "YẾN TỰ SÔI | BÁT TRÂN NGỰ THIỆN",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/yen-tu-soi-bat-tran-ngu-thien": {
+  "status": 404,
+  "template": "header_nav_cate",
+  "title": "404 Không tìm thấy trang",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/404page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/qua-tet-doanh-nghiep-2025-trao-suc-khoe-gan-ket-ben-lau": {
+  "status": 200,
+  "template": "article",
+  "title": "QUÀ TẾT DOANH NGHIỆP 2025 - TRAO SỨC KHỎE, GẮN KẾT BỀN LÂU",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/yen-tu-soi-trieu-que-thuong-dinh-yen-my-vi-thuong-pham": {
+  "status": 200,
+  "template": "article",
+  "title": "YẾN TỰ SÔI - TRIỀU QUẾ THƯỢNG ĐỈNH YẾN, MỸ VỊ THƯỢNG PHẨM",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/phan-biet-to-yen-co-duong-va-chat-don-bang-meo-cuc-don-gian": {
+  "status": 200,
+  "template": "article",
+  "title": "Phân biệt tổ yến có đường và chất độn bằng mẹo cực đơn giản",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/yen-tho-va-yen-sach-long-co-gi-khac-biet": {
+  "status": 200,
+  "template": "article",
+  "title": "Yến thô và yến sạch lông có gì khác biệt?",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/su-that-khoa-hoc-dang-sau-mau-do-cua-huyet-yen": {
+  "status": 200,
+  "template": "article",
+  "title": "Sự thật khoa học đằng sau màu đỏ của Huyết yến",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/yen-tu-soi-bat-tran-ngu-thien": {
+  "status": 404,
+  "template": "header_nav_cate",
+  "title": "404 Không tìm thấy trang",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/404page.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/cart": {
+  "status": 200,
+  "template": "cart",
+  "title": "Giỏ hàng",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/cartpage.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/account/login": {
+  "status": 200,
+  "template": "customers",
+  "title": "Đăng nhập tài khoản",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/account_oder_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/account/register": {
+  "status": 200,
+  "template": "customers",
+  "title": "Đăng ký tài khoản",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/account_oder_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/search?query=y%E1%BA%BFn&type=product": {
+  "status": 200,
+  "template": "search",
+  "title": "yến - Tìm kiếm",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/search_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/collections/all?page=2": {
+  "status": 200,
+  "template": "collection",
+  "title": "Tất cả sản phẩm - Trang 2",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/collections/all?page=3": {
+  "status": 200,
+  "template": "collection",
+  "title": "Tất cả sản phẩm - Trang 3",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/collections/all?page=4": {
+  "status": 200,
+  "template": "collection",
+  "title": "Tất cả sản phẩm - Trang 4",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/thuong-vy-yen?page=2": {
+  "status": 200,
+  "template": "collection",
+  "title": "Thượng vy yến - Trang 2",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/collection_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/quickviews_popup_cart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/jquery-ui-min.scss.css"
+  ]
+ },
+ "/blogs/all?page=2": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức - Trang 2",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ },
+ "/blogs/all/tagged/trieuquethuongdinhyen?page=2": {
+  "status": 200,
+  "template": "blog",
+  "title": "Tất cả tin tức tagged \"trieuquethuongdinhyen\" - Trang 2",
+  "css": [
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/fonts.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/bootstrap-4-3-min.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/main.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/breadcrumb_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/blog_article_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/sidebar_style.scss.css",
+   "https://bizweb.dktcdn.net/100/447/513/themes/969333/assets/ajaxcart.scss.css"
+  ]
+ }
+}
