@@ -1,5 +1,5 @@
 {
-  "installCommand": "pip3 install beautifulsoup4",
+  "installCommand": "pip3 install --break-system-packages beautifulsoup4",
   "buildCommand": "python3 tools/build.py",
   "outputDirectory": "dist",
   "cleanUrls": true,
